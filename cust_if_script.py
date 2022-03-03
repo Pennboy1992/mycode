@@ -2,7 +2,7 @@
 
 
 def main():
-    played_games =int( input("How many Demon Souls/Dark Souls games have you played(including Elden Rings)? : ") )
+    played_games =int( input("How many Demon Souls/Dark Souls games have you played(including Elden Rings, Sekiro, and Bloodborne)? : ") )
 
     if played_games > 5:
         print("You're a true master chosen one go forth and bring back the embers")
